@@ -1,0 +1,15 @@
+.header {
+  background: #282c34;
+  color: white;
+  padding: 50px 0;
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

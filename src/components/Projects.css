@@ -1,0 +1,37 @@
+.projects {
+  background: #fff;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.project-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project-item {
+  background: #e3e3e3;
+  margin: 20px;
+  padding: 20px;
+  width: 30%;
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: left;
+  animation: slideIn 1s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.project-image {
+  width: 100%;
+  margin-top: 10px;
+}

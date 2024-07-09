@@ -1,0 +1,11 @@
+.about {
+  background: #f9f9f9;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.about-image {
+  width: 100%;
+  max-width: 600px;
+  margin-top: 20px;
+}
