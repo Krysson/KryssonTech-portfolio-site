@@ -4,7 +4,7 @@ import About from "./components/About"
 import Projects from "./components/Projects"
 import Contact from "./components/Contact"
 import Skills from "./components/Skills"
-import logo from "./logo.svg"
+import logo from "./assets/c_logo512.png"
 import "./App.css"
 
 function App() {

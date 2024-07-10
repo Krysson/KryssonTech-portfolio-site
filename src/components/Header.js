@@ -1,11 +1,12 @@
 import React from "react"
-import "./Header.css"
+import "./CSS/Header.css"
 
 const Header = () => {
   return (
     <header className="header">
-      <h1>John Doe</h1>
-      <p>Web Developer</p>
+      <h1>Krysson Technologies</h1>
+      <p>Design // Develop // Engineer // Deploy</p>
+      <p>Crafting Smart Technologies for Modern Professional Environments</p>
     </header>
   )
 }
