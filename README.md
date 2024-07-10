@@ -1,3 +1,25 @@
+# Krysson Technologies
+
+### Main Web App & Portfolio
+
+---
+
+#### Log
+
+- Initial Commit
+- BaseLine Commit after basic formating and copy content added
+- Styles Branch Created 7/10/24
+  - style page
+
+---
+
+<br >
+<br >
+<br >
+<br >
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
