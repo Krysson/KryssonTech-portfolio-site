@@ -6,6 +6,17 @@ import sqLogo from "../assets/sq_logo512.png" // Update the path accordingly
 const About = () => {
   return (
     <section className="about">
+      {/*Check the below to make sure it works - this is for the CSS animation*/}
+      <div class="body">
+        <div>
+          <div class="wave"></div>
+          <div class="wave"> </div>
+          <div class="wave"></div>
+          <div class="wave"></div>
+        </div>
+      </div>
+      {/*Check the above to make sure it works */}
+
       <h2>Welcome to Krysson Technologies</h2>
       <div className="welcome-wrapper">
         <div className="welcome-text">
